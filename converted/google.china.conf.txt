@@ -187,3 +187,4 @@
 [/uberproxy-with-cn.l.google.com/]https://dns.alidns.com/dns-query
 [/uberproxy-with-cn4.l.google.com/]https://dns.alidns.com/dns-query
 [/uberproxy-with-cn6.l.google.com/]https://dns.alidns.com/dns-query
+[/qiao-cn.com/]https://dns.alidns.com/dns-query
