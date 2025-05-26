@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
 [/cds.apple.com/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
 [/cdsassets.apple.com/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
+[/certs.apple.com/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
 [/cl1-cdn.origin-apple.com.akadns.net/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
 [/cl1.apple.com/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
 [/cl2-cn.apple.com/]https://dns.b612.me/dns-query https://dns.alidns.com/dns-query
