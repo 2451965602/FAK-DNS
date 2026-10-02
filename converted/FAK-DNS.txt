@@ -1,4 +1,4 @@
-https://d5pzzr1daz.cloudflare-gateway.com/dns query https://dns.google/dns-query  https://dns.nextdns.io/a2a159/dns-query https://dns11.quad9.net/dns-query
+https://d5pzzr1daz.cloudflare-gateway.com/dns-query https://dns.google/dns-query  https://dns.nextdns.io/a2a159/dns-query https://dns11.quad9.net/dns-query
 [/265.com/]https://1.12.12.12/dns-query https://120.53.53.53/dns-query https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2mdn-cn.net/]https://1.12.12.12/dns-query https://120.53.53.53/dns-query https://dns.alidns.com/dns-query https://doh.pub/dns-query
 [/2mdn.net/]https://1.12.12.12/dns-query https://120.53.53.53/dns-query https://dns.alidns.com/dns-query https://doh.pub/dns-query
